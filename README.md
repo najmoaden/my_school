@@ -1,2 +1,2 @@
-# my_school
+# MySchool
  MySchool Website
